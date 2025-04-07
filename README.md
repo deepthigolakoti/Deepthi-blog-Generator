@@ -1,6 +1,6 @@
 # AI-Powered Blog Generator Platform
 
-A modern, full-stack web application for generating and managing blog content using AI. Built with React, Supabase, and Cohere AI.
+A modern, full-stack web application for generating and managing blog content using AI. Built with React
 
 ![Project Preview](https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&q=80&w=2400)
 
